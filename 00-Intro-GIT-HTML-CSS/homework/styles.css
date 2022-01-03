@@ -1,3 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://previews.123rf.com/images/dodes11/dodes111507/dodes11150700019/43201760-background-triangle-abstract-vector-illustration-web-page-background-halftone-background-design-temp.jpg");
+  }
+
+
+
+
 h1 {
     color:red;
 }
@@ -6,17 +18,24 @@ img {
     width: 400px;
 }
 
+
+
 #thirdDiv {
     height: 600px;
-    width: 500px;
-    background-color: aqua;
+    width: 1240px;
+    background-color: blueviolet;
     padding: 50px;
     border: 2px solid black;
+    
 }
 
 #spanId {
     font-size: 25px;
     margin: 50px;
+
 }
+
+
+
 
 
